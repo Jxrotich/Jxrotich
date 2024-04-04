@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jxrotich
+- 👋 Hi, I’m Jerotich
 - 👀 I’m interested in Geospatial technologies
 - 🌱 I’m currently learning the basics
 - ⚡ I normally think about: A Superpower Africa
