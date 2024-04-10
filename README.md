@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Jerotich
-- 👀 I’m interested in Geospatial technologies
 - 🌱 I’m currently learning the basics
-- ⚡ I normally think about: A Superpower Africa
 
 <!---
 Jxrotich/Jxrotich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
