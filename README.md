@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jerotich
 - 🌱 I’m currently learning the basics
-- 🌎 Pan-african
+- 🌎 Proudly Kenyan
 
 <!---
 Jxrotich/Jxrotich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
