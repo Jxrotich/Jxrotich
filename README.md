@@ -22,10 +22,10 @@
 ## 🛠️ Tech Stack
 
 **Frontend:** React, JavaScript, TypeScript, HTML5, CSS3  
-**Backend:** Node.js, Python, Django
-**Databases:** PostgreSQL, MongoDB, Et al
+**Backend:** Node.js, Python, Django  
+**Databases:** PostgreSQL, MongoDB, Et al  
 **GeoAI:** ArcGIS, QGIS, Google Earth Engine, TensorFlow  
-**Tools:** Git, VS Code, Colab, Pycharm
+**Tools:** Git, VS Code, Colab, PyCharm
 
 ---
 
