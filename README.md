@@ -23,10 +23,10 @@
 
 **Frontend:** React, JavaScript, TypeScript, HTML5, CSS3  
 **Backend:** Node.js, Python, Django
-**Databases:** PostgreSQL, MongoDB, Et al.
+**Databases:** PostgreSQL, MongoDB, Et al
 **GeoAI:** ArcGIS, QGIS, Google Earth Engine, TensorFlow  
 **Tools:** Git, VS Code, Colab, Pycharm
 
 ---
 
-*"To Living a positive print!"*
+### *"To Living a positive print!"*
