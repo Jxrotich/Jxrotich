@@ -1,5 +1,5 @@
 # CJ
-**Full-Stack Developer | GeoAI Specialist**
+**Full-Stack Developer | Bridging into GeoAI **
 
 Bridging technology and environmental impact through innovative solutions. Building the future where geospatial intelligence meets full-stack development to create meaningful change for our planet and communities.
 
